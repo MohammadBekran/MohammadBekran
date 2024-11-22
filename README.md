@@ -1,5 +1,5 @@
 # 💫 About Me:
-A front-end developer
+I am a passionate Front-End Developer with over 3 years of experience specializing in building dynamic, responsive, and high-performance web applications using React and Next.js. My expertise lies in crafting seamless user interfaces, optimizing performance, and creating scalable solutions that meet modern web standards. I have a deep understanding of JavaScript (ES6+), HTML5, CSS3, and front-end best practices, ensuring clean, maintainable code. I focus on delivering engaging and intuitive user experiences. I thrive in collaborative environments and enjoy solving complex challenges while continuously staying updated with the latest technologies. My goal is to contribute to innovative projects that push the boundaries of web development.
 
 
 ## 🌐 Socials:
