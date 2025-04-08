@@ -1,6 +1,10 @@
 # 💫 About Me:
-I am a passionate Full-Stack Developer with over 4 years of experience specializing in building dynamic, responsive, and high-performance web applications using React and Next.js. My expertise lies in crafting seamless user interfaces, optimizing performance, and creating scalable solutions that meet modern web standards. I have a deep understanding of JavaScript (ES6+), HTML5, CSS3, and front-end best practices, ensuring clean, maintainable code. I focus on delivering engaging and intuitive user experiences. I thrive in collaborative environments and enjoy solving complex challenges while continuously staying updated with the latest technologies. My goal is to contribute to innovative projects that push the boundaries of web development.
+As a dedicated Frontend Developer, I specialize in building responsive and user-centric web applications. With expertise in React.js, Next.js, TypeScript, and Tailwind CSS, I am committed to delivering high-quality code and seamless user experiences.​
 
+Key Achievements:
+- Enhanced Application Performance: Optimized web applications, achieving up to a 40% reduction in load times through efficient coding practices and performance tuning.​
+- Developed Scalable UI Components: Designed and implemented reusable UI components, streamlining development processes and ensuring consistency across projects.​
+- Collaborative Project Leadership: Led frontend development teams in agile environments, successfully delivering projects on time and exceeding client expectations.​
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-bekran) 
