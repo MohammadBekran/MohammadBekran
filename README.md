@@ -1,10 +1,21 @@
-# 💫 About Me:
-As a dedicated Frontend Developer, I specialize in building responsive and user-centric web applications. With expertise in React.js, Next.js, TypeScript, and Tailwind CSS, I am committed to delivering high-quality code and seamless user experiences.​
+I’m a frontend developer focused on building scalable, high-performance, and user-friendly web applications using modern technologies.
 
-Key Achievements:
-- Enhanced Application Performance: Optimized web applications, achieving up to a 40% reduction in load times through efficient coding practices and performance tuning.​
-- Developed Scalable UI Components: Designed and implemented reusable UI components, streamlining development processes and ensuring consistency across projects.​
-- Collaborative Project Leadership: Led frontend development teams in agile environments, successfully delivering projects on time and exceeding client expectations.​
+My expertise includes:
+- React.js & Next.js for dynamic and SEO-optimized applications
+- TypeScript for type safety and scalable codebases
+- Tailwind CSS, Material UI (MUI), and Next UI for clean, responsive UIs
+- Zustand and Redux Toolkit for efficient state management
+- Clerk, Liveblocks, React Query, and Drizzle ORM for real-world full-stack integrations
+
+🧩 Selected Projects:
+- Textloom – Real-time collaborative editor with authentication, edge functions, and live editing using Clerk + Liveblocks + Neon + PostgreSQL.
+- Cloudrune – Role-based task manager with a sleek dashboard and responsive layout.
+- Genius CMS – Enterprise-grade learning platform used by 1000+ students and staff, built at Sepehr Academy.
+
+🔧 Professional Experience:
+- Apanco – Enhanced app performance with React Query, Redux Toolkit, and scalable design systems.
+- RSIMU – Built reusable infographic components using Storybook and TypeScript in a feature-based architecture.
+- Sepehr Academy – Delivered a complete CMS with Next.js, improving load time by 35% and Lighthouse score to 90+.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-bekran) 
