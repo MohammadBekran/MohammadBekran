@@ -9,7 +9,7 @@ My expertise includes:
 
 🧩 Selected Projects:
 - Textloom – Real-time collaborative editor with authentication, edge functions, and live editing using Clerk + Liveblocks + Neon + PostgreSQL.
-- Cloudrune – Role-based task manager with a sleek dashboard and responsive layout.
+- Cloudrune – A cloud management platform.
 - Genius CMS – Enterprise-grade learning platform used by 1000+ students and staff, built at Sepehr Academy.
 
 🔧 Professional Experience:
