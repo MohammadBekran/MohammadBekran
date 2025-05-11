@@ -5,7 +5,7 @@ My expertise includes:
 - TypeScript for type safety and scalable codebases
 - Tailwind CSS, Material UI (MUI), and Next UI for clean, responsive UIs
 - Zustand and Redux Toolkit for efficient state management
-- Clerk, Liveblocks, React Query, and Drizzle ORM for real-world full-stack integrations
+- Clerk, Liveblocks, React Query, Prisma ORM, Drizzle ORM, Sequelize, TypeORM, NodeJS, ExpressJS, Hono, NestJS for real-world full-stack integrations
 
 🧩 Selected Projects:
 - Textloom – Real-time collaborative editor with authentication, edge functions, and live editing using Clerk + Liveblocks + Neon + PostgreSQL.
