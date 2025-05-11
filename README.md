@@ -3,7 +3,7 @@ I’m a frontend developer focused on building scalable, high-performance, and u
 My expertise includes:
 - React.js & Next.js for dynamic and SEO-optimized applications
 - TypeScript for type safety and scalable codebases
-- Tailwind CSS, Material UI (MUI), and Next UI for clean, responsive UIs
+- Tailwind CSS, Material UI (MUI), Next UI and Shadcn for clean, responsive UIs
 - Zustand and Redux Toolkit for efficient state management
 - Clerk, Liveblocks, React Query, Prisma ORM, Drizzle ORM, Sequelize, TypeORM, NodeJS, ExpressJS, Hono, NestJS for real-world full-stack integrations
 
