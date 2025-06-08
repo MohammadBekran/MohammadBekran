@@ -1,21 +1,39 @@
-I’m a frontend developer focused on building scalable, high-performance, and user-friendly web applications using modern technologies.
+# 👋 Hi, I’m Mohammad Bekran!
 
-My expertise includes:
-- React.js & Next.js for dynamic and SEO-optimized applications
-- TypeScript for type safety and scalable codebases
-- Tailwind CSS, Material UI (MUI), Next UI and Shadcn for clean, responsive UIs
-- Zustand and Redux Toolkit for efficient state management
-- Clerk, Liveblocks, React Query, Prisma ORM, Drizzle ORM, Sequelize, TypeORM, NodeJS, ExpressJS, Hono, NestJS for real-world full-stack integrations
+I’m a passionate **Frontend Developer** dedicated to building scalable, high-performance, and user-friendly web applications with modern technologies. I love creating seamless, responsive, and impactful digital experiences that solve real-world problems.
 
-🧩 Selected Projects:
-- Textloom – Real-time collaborative editor with authentication, edge functions, and live editing using Clerk + Liveblocks + Neon + PostgreSQL.
-- Cloudrune – A cloud management platform.
-- Genius CMS – Enterprise-grade learning platform used by 1000+ students and staff, built at Sepehr Academy.
+## 💻 My Expertise
+- **Frontend:** React.js, Next.js, TypeScript  
+- **Styling:** Tailwind CSS, Material UI (MUI), Next UI, Shadcn  
+- **State Management:** Zustand, Redux Toolkit  
+- **Full-Stack Tools:** Clerk, Liveblocks, React Query, Prisma ORM, Drizzle ORM, Sequelize, TypeORM, Node.js, Express.js, Hono, NestJS  
+- **Focus:** Dynamic, SEO-optimized apps, type-safe code, and responsive UIs
 
-🔧 Professional Experience:
-- Apanco – Enhanced app performance with React Query, Redux Toolkit, and scalable design systems.
-- RSIMU – Built reusable infographic components using Storybook and TypeScript in a feature-based architecture.
-- Sepehr Academy – Delivered a complete CMS with Next.js, improving load time by 35% and Lighthouse score to 90+.
+## 🧩 Selected Projects
+- **Textloom**  
+  A real-time collaborative editor powered by Clerk (authentication), Liveblocks (live editing), and Neon + PostgreSQL (data). Built for seamless collaboration!  
+- **Cloudrune**  
+  A cloud management platform to streamline operations and enhance usability.  
+- **Genius CMS**  
+  Enterprise-grade learning platform for 1000+ students and staff at Sepehr Academy, built with Next.js for optimal performance.
+
+## 🔧 Experience
+- **Apanco**  
+  Boosted app performance using React Query, Redux Toolkit, and scalable design systems.  
+- **RSIMU**  
+  Developed reusable infographic components with Storybook and TypeScript in a feature-based architecture.  
+- **Sepehr Academy**  
+  Delivered a complete CMS with Next.js, cutting load time by 35% and achieving a 90+ Lighthouse score.
+
+## 🌟 What Drives Me
+I’m passionate about leveraging code to create efficient, maintainable, and innovative solutions. Whether it’s optimizing performance, building reusable components, or integrating full-stack systems, I’m always eager to tackle new challenges!
+
+## 📫 Let’s Connect
+- **LinkedIn:** [https://linkedin.com/in/mohammad-bekran](https://linkedin.com/in/mohammad-bekran)  
+- **Email:** bhshtmhmd1@gmail.com
+
+Excited to collaborate and build something amazing together!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-bekran) 
